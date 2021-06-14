@@ -1,0 +1,43 @@
+
+Value of the Variable aa=2	
+declared b
+declared d
+declared e
+The value of variable b is 4 
+The value of variable aa is 3 
+The value of variable b is 5 
+the value of if bock is 9
+The value of variable e is 5 
+The value of variable d is 3 
+switch block ended
+The value of variable d is 13 
+
+the value at 1 no execution in for loop is 6
+the value at 2 no execution in for loop is 6
+the value at 3 no execution in for loop is 6
+
+Value of the Variable u=1	
+
+Value of the Variable v=5	
+
+the value in while loop is 4
+the value in while loop is 4
+the value in while loop is 4
+the value in while loop is 4
+2 is even
+3 is odd
+Factorial of 5 is 120
+sin(90) is 1.00000
+cos(45) is 0.70739
+tan(30) is 0.57700
+log(2) is 0.69315
+square root of 4 is 2.000000
+power of 2^3 is 8
+square root of 4 is 2.000000
+G.C.D of 2 and 6 is 2
+5 is a prime number.
+9 is not a prime number.
+The value of variable aa is 6 
+
+end of program
+succesfully compiled
